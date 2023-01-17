@@ -4,7 +4,7 @@ Access_readme-eng.docx contains the overall introductions.
 
 In addition, Each folder contains a doc file that introduce its functions. E.g., in "Experiment" folder, there is "Experiment-eng.docx"
 
-Please see these doc file for introductions.
+Please see these doc files for introductions.
 
 The experiment GUI files mentioned in "Experiment-eng.docx" can be downloaded by this URL: https://drive.google.com/drive/folders/1dLq2Y_HLU5YKhIxP2zxFmBNqqbKYDLLr?usp=share_link.
 
